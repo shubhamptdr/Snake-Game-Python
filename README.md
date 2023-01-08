@@ -1,6 +1,6 @@
 # Snake-Game-Python
 ## Description:
-Used Java to develop ***The Snake Game*** a popular game.
+Used Python to develop ***The Snake Game*** a popular game.
 ## Functionalities:
 * Snake can move in a given direction and when it eats the food, the length of snake increases.
 * Food will be generated at a given interval.
